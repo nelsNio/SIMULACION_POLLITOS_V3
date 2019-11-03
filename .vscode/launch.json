@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pollitos",
+            "request": "launch",
+            "mainClass": "PollitosSimulacion3.Pollitos"
+        }
+    ]
+}
