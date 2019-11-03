@@ -7,7 +7,8 @@
 • Las modalidades de pago presentadas en cada una de las muestras
 • Líneas de atención del restaurante por cada día de trabajo.
 • Una interfaz donde puedan variarse los tiempos del problema, de tal suerte que sean
-modelables diferentes escenarios de simulación, en función de obtener la mayor cantidad de ingresos en el restaurante. ```
+modelables diferentes escenarios de simulación, en función de obtener la mayor cantidad de ingresos en el restaurante.
+```
 
 ## Autores
 ``Niño V. Nelson Andres.``
